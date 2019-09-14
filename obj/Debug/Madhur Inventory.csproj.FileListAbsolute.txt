@@ -1,0 +1,13 @@
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\bin\Debug\Madhur Inventory.exe.config
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\bin\Debug\Madhur Inventory.exe
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\bin\Debug\Madhur Inventory.pdb
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur Inventory.csprojAssemblyReference.cache
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur_Inventory.Form1.resources
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur_Inventory.Properties.Resources.resources
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur Inventory.csproj.GenerateResource.cache
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur Inventory.csproj.CoreCompileInputs.cache
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur Inventory.exe
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur Inventory.pdb
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\bin\Debug\PagedList.dll
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\bin\Debug\PagedList.xml
+C:\Users\manish d souza\source\repos\Madhur Inventory\Madhur Inventory\obj\Debug\Madhur Inventory.csproj.CopyComplete
